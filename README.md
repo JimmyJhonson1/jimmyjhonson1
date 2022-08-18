@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 <a href="https://bounty.github.com/ineligible.html" download>Click to Download</a>
 
 This account got github pro for free without being a student.
+<noscript> &amp;lt;p title=” &lt;/noscript&gt;
+&lt;style onload= alert(document.domain)//&quot;&gt; *{/*all*/color/*all*/:/*all*/#f78fb3/*all*/;} &lt;/style&gt;
